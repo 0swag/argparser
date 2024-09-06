@@ -13,5 +13,5 @@ int main(int argc, char** argv)
 # Compilation
 
 ```sh
-gcc main.c argParer.o -o main
+gcc main.c argParser.o -o main
 ```
