@@ -10,6 +10,12 @@ int main(int argc, char** argv)
 }
 ```
 
+## Output
+```
+$ ./main -t hi
+hi
+```
+
 # Compilation
 
 ```sh
